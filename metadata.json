@@ -1,0 +1,6 @@
+{
+  "name": "Visualizador Interactivo DFS y BFS - CUCEI",
+  "description": "Herramienta didáctica para visualizar paso a paso los algoritmos de Búsqueda en Profundidad (DFS) y Búsqueda en Amplitud (BFS) en laberintos con resaltado de código Python y análisis comparativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
